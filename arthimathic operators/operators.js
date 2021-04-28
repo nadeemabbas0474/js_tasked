@@ -69,34 +69,34 @@ console.log(num2);
 
 // Augmented Addition
 
-num1 = num1+5;
+num1+=5;
 console.log(num1);
 
-num20 = num20+=10;
+num20+=10;
 console.log(num20);
  
 // Augmented multipication
-num3 = num3*7;
+num3*=7;
 console.log(num3);
 
-num2 = num2*=4;
+num2*=4;
 console.log(num2);
 
 // Augmented subtraction
 let num11 = 99;
-num11 = num11-21;
+num11-=21;
 console.log(num11);
 
 let num12 = 150;
-num12 = num12-=40;
+num12-=40;
 console.log(num12);
 
 // Augmented division
 let num15 = 200;
-num15 = num15/=5;
+num15/=5;
 console.log(num15);
 
-num20 = num20/=3;
+num20/=3;
 console.log(num20);
 
 
